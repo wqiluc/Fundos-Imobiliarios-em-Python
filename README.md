@@ -1,6 +1,4 @@
-# 🏦🌐 Sistema de Gestão de Investimentos em Fundos 
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align:middle;"/>
+# 🏦🌐 Sistema de Gestão de Investimentos em Fundos <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align:middle;"/>
 </h1>
 
 Este projeto apresenta um **sistema completo para simulação e análise de investimentos em fundos**, desenvolvido em Python. Ele aplica lógica de programação avançada, regras de adequação de perfil, cálculos de juros compostos e avaliação automática de rentabilidade.
