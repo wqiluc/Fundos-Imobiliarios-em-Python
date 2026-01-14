@@ -19,7 +19,7 @@ O objetivo é oferecer ao usuário uma ferramenta capaz de avaliar cenários fin
 
 ---
 
-## 🚀 Como Clonar
+<p align="center"> 🚀 Como Clonar
 
 git clone: https://github.com/wqiluc/credito-imobiliario.git
 
