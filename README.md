@@ -1,4 +1,4 @@
-# 🏦🌐 Sistema de Gestão de Investimentos em Fundos <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align:middle;"/>
+# 🏦🌐 Sistema de Gestão de Investimentos em Fundos<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align:middle;"/>
 </h1>
 
 Este projeto apresenta um **sistema completo para simulação e análise de investimentos em fundos**, desenvolvido em Python. Ele aplica lógica de programação avançada, regras de adequação de perfil, cálculos de juros compostos e avaliação automática de rentabilidade.
@@ -19,7 +19,7 @@ O objetivo é oferecer ao usuário uma ferramenta capaz de avaliar cenários fin
 
 ---
 
-<p align="center"> 🚀 Como Clonar
+<p align="center"> 🚀 Como Clonar: 
 
 git clone: https://github.com/wqiluc/credito-imobiliario.git
 
@@ -37,7 +37,6 @@ git clone: https://github.com/wqiluc/credito-imobiliario.git
 ---
 
 👨‍💻 Autor: <br>
-Desenvolvido por: <br>
 -**Lucas Paguetti Pereira** <br>
 -**Cesar School - ADS Regular**💻🎓🧡
 
