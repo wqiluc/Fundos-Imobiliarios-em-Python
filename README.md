@@ -36,7 +36,7 @@ Desenvolvido por: <br>
 -**Lucas Paguetti Pereira**
 - **Cesar School - ADS Regular**💻🎓🧡
 
-p align="center">
+<p align="center">
   <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
   </a>
